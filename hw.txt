@@ -1,0 +1,27 @@
+user32.dll
+gdi32.dll--------------------find
+kernel32.dll
+
+
+how debugger assosciates source line to the binary line??how is it??
+Symbol Table.debug will have symbols.PDB symbols.WinDBG
+
+layer of os which allows 32 bit to run on 64?
+
+compiler adds a  code to allocate and deallocate?
+PROLOG AND APLOG
+base conversion using deligates?
+
+-what is the stack size of the windows?
+
+-application to sort an array..using generics?
+any number to sort(try with strings)
+
+-read a file with different types of values(integer,float,string)
+display only numbers or display only strings.3:26 PM 10/20/2018
+
+typeof
+
+-add numbers and strings and querry only the numbers using LINQ
+
+-
